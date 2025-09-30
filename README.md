@@ -1,8 +1,4 @@
-<div align="center">
-<h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi,+I'm+[Your Name]!;Welcome+to+my+GitHub!;" alt="Hello!" />
-</h1>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D9FE6&background=FFFFFF00&center=true&width=435&lines=Hi%2C%2BI'm%2B%5BYour+Name%5D!;Welcome%2Bto%2Bmy%2BGitHub!)](https://git.io/typing-svg)
 
 <!--
 **sashenkaph/sashenkaph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
