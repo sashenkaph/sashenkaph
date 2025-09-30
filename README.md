@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=49B9E6&background=FFFFFF34&center=true&width=435&lines=Hi%2C+I'm+Sasha!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FC09C&background=FFFFFF34&center=true&width=435&lines=Hi%2C+I'm+Sasha!;Welcome+to+my+GitHub!" alt="Typing SVG" /></a></a>
 </p>
 <!--
 **sashenkaph/sashenkaph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
